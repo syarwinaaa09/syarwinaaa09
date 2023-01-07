@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Syarwina :)
 
-A Y2 Biomedical Engineering and Data Science & Analytics Undergraduate who is interested in Medical Technology (MedTech), Machine Learning and Game Development. 
+A Y2 Biomedical Engineering and Data Science & Analytics Undergraduate who is interested in MedTech and BioTech. 
 
 I like to work on projects either by myself or with a team. They can be found in my GitHub repositories or down below. 
 
