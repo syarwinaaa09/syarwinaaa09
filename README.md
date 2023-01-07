@@ -2,7 +2,7 @@
 
 A Y2 Biomedical Engineering and Data Science & Analytics Undergraduate who is interested in MedTech and BioTech. 
 
-I like to work on projects either by myself or with a team. They can be found in my GitHub repositories or down below. 
+I like to work on random projects either by myself or with a team. They can be found in my GitHub repositories or down below. 
 
 #### Personal Projects
 ###### [RGB Generator](https://syarwinaaa09.wixsite.com/boxcolorsrgb) - Dec 2022
