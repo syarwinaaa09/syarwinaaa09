@@ -1,11 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Syarwina :)
 
-A Y2 Biomedical Engineering and Data Science & Analytics Undergraduate who is interested in MedTech and BioTech. 
+A Y2 Biomedical Engineering and Data Science & Analytics Undergraduate who is interested in MedTech, HealthTech, BioTech etc. I also do Game Development as a hobby and a side hustle. 
 
 I like to work on random projects either by myself or with a team. They can be found in my GitHub repositories or down below. 
 
 #### Personal Projects
-###### [RGB Generator](https://syarwinaaa09.wixsite.com/boxcolorsrgb) - Dec 2022
+###### [RGB Generator](https://syarwinaaa09.wixsite.com/boxcolorsrgb)
 - Used arrays in JavaScript to store information about colour and create an RGB colour generator on Wix
 
 ---
