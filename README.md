@@ -2,13 +2,13 @@
 
 A Y2 Biomedical Engineering and Data Science & Analytics Undergraduate who is interested in MedTech, HealthTech, BioTech etc. I also do Game Development as a hobby and a side hustle. 
 
-I like to work on random projects either by myself or with a team which can be found in my GitHub repositories. 
+I like to work on random projects either by myself or with a team and these can be found in my GitHub repositories. 
 
 ---
 
 🧰 My Tech Stack
 
-![image](https://user-images.githubusercontent.com/114587158/211006754-1ac5d298-77b7-4ee2-9b0f-9d2ab3953da3.png)
+WIP
 
 ---
 
