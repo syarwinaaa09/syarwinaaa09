@@ -6,9 +6,9 @@ I like to work on random projects either by myself or with a team and these can 
 
 ---
 
-🧰 My Tech Stack
+🧰 My Tech Stack (Work in Progress)
 
-WIP
+![image](https://user-images.githubusercontent.com/114587158/211207034-f546d148-f7ce-4c3a-bac3-e0d875df57b9.png)
 
 ---
 
