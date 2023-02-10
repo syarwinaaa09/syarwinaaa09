@@ -1,8 +1,10 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Syarwina :)
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Syarwina :)
 
-A Year 2 Biomedical Engineering and Data Science & Analytics Undergraduate at NUS who has an interest in MedTech, HealthTech, BioTech etc. I also do Game Development as a hobby and a side hustle. 
+A Year 2 Biomedical Engineering and Data Science & Analytics Undergraduate at NUS who has an interest in MedTech, HealthTech, BioTech etc. I like to work on random projects either by myself or with a team and these can be found in my GitHub repositories.
 
-I like to work on random projects either by myself or with a team and these can be found in my GitHub repositories. 
+I also do Game Development as a hobby and a side hustle. 
+
+[LEGO Brick Adventure: A Unity-Powered Microgame](https://play.unity.com/mg/lego/webgl-builds-307608)
 
 ---
 
