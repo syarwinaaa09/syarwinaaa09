@@ -1,5 +1,5 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Syarwina :)
+# Hi there 👋, I'm Syarwina 😊
 
-A Year 4 Biomedical Engineering and Data Science & Analytics Undergraduate at NUS who has an interest in MedTech, HealthTech, BioTech etc. I like to work on random projects either by myself or with a team and these can be found in my GitHub repositories.
+'m a Final Year Biomedical Engineering and Data Science & Analytics student at NUS with a keen interest in MedTech, HealthTech, BioTech, and pretty much anything with "Tech" in it. I spend my time tinkering on various projects, both solo and with awesome teams, and you can find the evidence of my experiments in my GitHub repositories 🛠️💻.
 
-In my free time, I like to game. My range goes from cozy games like Stardew Valley to (extremely) toxic ones like League of Legends.
+When I'm not buried in code or lecture notes 📚, you'll likely find me escaping into the world of gaming 🎮. I swing between the serene vibes of Stardew Valley 🌻 and the (extremely) toxic realms of League of Legends 🔥. Balance, right? 😅
