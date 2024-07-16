@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a final-year undergraduate juggling Biomedical
 
 ## 🌟 Projects
 
-- **ECG Signal Analysis and Heartbeat Classification:** coz ur heart deserves a standing ovation for keeping u alive every second 💓
+- **ECG Signal Analysis and Heartbeat Classification:** your heart deserves a standing ovation for keeping you alive every second 💓
 
 My projects are like a lab experiment – always evolving and occasionally exploding. Check back later for more data-driven adventures!
 
