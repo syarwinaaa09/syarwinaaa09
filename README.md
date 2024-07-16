@@ -1,4 +1,4 @@
-# 👋 Howdy! I'm Syarwina
+# 👋 Harlow I'm Syarwina :)
 
 Welcome to my GitHub profile! I'm a final-year undergraduate juggling Biomedical Engineering and Data Science & Analytics at NUS. If you see a mix of DNA sequences and data plots, you're in the right place.
 
