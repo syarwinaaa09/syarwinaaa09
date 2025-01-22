@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm a final-year undergraduate juggling Biomedical
 ## 🌟 Projects
 
 - **Analyze the Popularity of Programming Languages:** 📊 analyzing programming language trends (2008–2020) using Stack Overflow data with R 📈
-- **Automated Detection of Diabetic Retinopathy:** seeing is believing, and detecting diabetic retinopathy early can save vision 👓
 
 My projects are like a lab experiment – always evolving and occasionally exploding. Check back later for more data-driven adventures!
 
