@@ -17,12 +17,6 @@ Welcome to my GitHub profile! I'm a final-year undergraduate juggling Biomedical
 - **Tools:** Jupyter Notebooks, Git, Excel (because, why not?)
 - **Special Powers:** Debugging code at 3 AM, Finding correlations in chaos
 
-## 🌟 Projects
-
-- **Analyze the Popularity of Programming Languages:** 📊 analyzing programming language trends (2008–2020) using Stack Overflow data with R 📈
-
-My projects are like a lab experiment – always evolving and occasionally exploding. Check back later for more data-driven adventures!
-
 ## 🏆 Achievements
 
 - Built a neural network that can identify cats in MRI scans. 
